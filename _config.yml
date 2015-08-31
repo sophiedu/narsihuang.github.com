@@ -2,7 +2,7 @@ safe:        true
 auto:        false
 server:      false
 server_port: 4000
-url:         http://huangxc.com
+url:         http://sophiedu.com
 
 source:      .
 destination: ./_site
@@ -40,10 +40,10 @@ kramdown:
 
 permalink:    /:title
 
-title:        Narsight
-alt:          Narsi's blog
+title:        SophieDu's workplace
+alt:          SophieDu's blog
 author:
-  name:       Narsi
+  name:       SophieDu
 copyright:
   - Powered by <a href="https://github.com/mojombo/jekyll" target="_blank">Jekyll</a> and <a href="https://github.com/" target="_blank">GitHub</a>. &copy; Narsi 2015
 
